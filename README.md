@@ -1,4 +1,4 @@
-# MATLAB Repository
+# MATLAB
 
 Welcome to the MATLAB repository! This repository contains MATLAB scripts and functions for various mathematical operations and graph plotting. Below is an overview of the topics covered and the corresponding MATLAB scripts available in this repository.
 
